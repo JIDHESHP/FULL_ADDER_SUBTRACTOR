@@ -75,15 +75,21 @@ endmodule
 ```
 **RTL Schematic**
 FULL ADDER
+
 ![image](https://github.com/JIDHESHP/FULL_ADDER_SUBTRACTOR/assets/160458978/47a4241d-10cc-4e4e-86fa-7eb9ec761535)
+
 FULL SUBTRACTOR
+
 ![image](https://github.com/JIDHESHP/FULL_ADDER_SUBTRACTOR/assets/160458978/b60c40b4-a165-40ef-a4ee-4ba0879e48eb)
 
 
 **Output Timing Waveform**
 FULL ADDER
+
 ![image](https://github.com/JIDHESHP/FULL_ADDER_SUBTRACTOR/assets/160458978/578c3706-5292-486a-b55c-c757025a144d)
+
 FULL SUBTRACTOR
+
 ![image](https://github.com/JIDHESHP/FULL_ADDER_SUBTRACTOR/assets/160458978/c2263985-0530-43e3-ac4c-ea31a1de0cb4)
 
 
